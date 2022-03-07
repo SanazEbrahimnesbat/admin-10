@@ -9,7 +9,7 @@ module.exports = {
   daisyui: {
     themes: [
       {
-        mytheme: {
+        admin10: {
           "primary": "#283144",
           "secondary": "#e879f9",
           "accent": "#00CFDD",
